@@ -8,7 +8,6 @@
 
 ## 🛠️ Skills
 - C
-- Python
 - Git
 - GitHub
 - Data Structures & Algorithms
