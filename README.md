@@ -18,3 +18,4 @@ To become a skilled AI Engineer and contribute to impactful AI and Machine Learn
 
 ## 📫 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/revanth-sangepu
+<img width="1600" height="800" alt="WhatsApp Image 2026-07-25 at 10 20 55 PM" src="https://github.com/user-attachments/assets/595fb5d1-f59f-4ebf-b2b3-b13e08d0c7ef" />
