@@ -4,7 +4,7 @@
 - 🎓 CSE (AI & ML) Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 💻 Currently learning C, Python, Git, GitHub and DSA
-- 🚀 Building projects and improving my programming skills every day
+- 🚀 Building AI & Machine Learning Projects Every Day
 
 ## 🛠️ Skills
 - C
