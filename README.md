@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Revanth Sangepu 👋
 
-<!--
-**revanthsangepu/revanthsangepu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 CSE (AI & ML) Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Currently learning C, Python, Git, GitHub and DSA
+- 🚀 Building projects and improving my programming skills every day
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- C
+- Python
+- Git
+- GitHub
+- Data Structures & Algorithms
+- Machine Learning (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+To become a skilled AI Engineer and contribute to impactful AI and Machine Learning projects.
+
+## 📫 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/revanth-sangepu
