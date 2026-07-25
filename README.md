@@ -1,4 +1,4 @@
-<img width="1600" height="800" alt="WhatsApp Image 2026-07-25 at 10 20 55 PM" src="https://github.com/user-attachments/assets/595fb5d1-f59f-4ebf-b2b3-b13e08d0c7ef" />
+<img width="1536" height="1024" alt="WhatsApp Image 2026-07-25 at 10 37 46 PM" src="https://github.com/user-attachments/assets/49f54653-7c14-4627-9a96-400f72b73c3a" />
 # Hi, I'm Revanth Sangepu 👋
 
 ## 🎓 About Me
